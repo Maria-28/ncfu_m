@@ -1,0 +1,6 @@
+f = float(input('Ввод числа:'))
+s = float(input('Ввод числа:'))
+w = float(input('Ввод числа:'))
+z = float(input('Ввод числа:'))
+n = ((f + s)/(w + z))
+print('ответ: %.2f' % n)
